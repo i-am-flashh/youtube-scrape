@@ -4,6 +4,6 @@
   "description": "An open source YouTube search Api",
   "repository": "https://github.com/HermanFassett/youtube-scrape",
   "logo": "https://pngimg.com/uploads/youtube/youtube_PNG21.png",
-  "keywords": ["youtube", "youtube-scrape", "open-source"]
+  "keywords": ["youtube", "youtube-scrape", "open-source"],
   "start": "node server.js"
 }
